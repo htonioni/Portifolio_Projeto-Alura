@@ -24,3 +24,4 @@ Para executar o projeto, basta fazer o clone do repositório e abrir o arquivo i
 Este projeto demonstra algumas técnicas básicas de HTML e CSS, e pode ser utilizado como base para desenvolver outros projetos mais complexos. Além disso, é uma ótima forma de colocar em prática o que foi aprendido no curso e desenvolver um portfólio pessoal para apresentar seus trabalhos.
 
 #### Certificado
+![img](https://github.com/htonioni/Portifolio_Projeto-Alura/blob/main/certificado/certificado.png)
