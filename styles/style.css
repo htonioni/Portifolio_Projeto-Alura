@@ -140,14 +140,21 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 5%;
+
     }
+
+    .cabecalho__menu__link {
+        font-size: 1.3rem;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 0%;
     }
     .apresentacao__conteudo {
         width: auto;
-        margin: 0 5% 5% 5%;
+        margin: 0 5% 8% 5%;
     }
     
 
