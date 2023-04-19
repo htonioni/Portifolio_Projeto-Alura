@@ -50,7 +50,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -109,6 +109,11 @@ body {
 .apresentacao__links__link:hover {
     background-color: var(--cor-hover);
     font-size: 200%;
+}
+
+
+.apresentacao__imagem {
+    width: 44%;
 }
 
 .rodape {
